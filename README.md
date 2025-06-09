@@ -59,7 +59,7 @@ Uses real API data from: `https://app.wewantwaste.co.uk/api/skips/by-location?po
 - **Accessibility considerations** throughout the design
 
 ## 🔗 Demo
-[Sandbox link will be added here]
+https://codesandbox.io/p/sandbox/hopeful-ride-cqdlh2
 
 ## 🚀 Getting Started
 1. Clone the repository
